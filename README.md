@@ -18,3 +18,5 @@ have a smooth running bot(and note that the
 user and pass that you put in stage1 will
 always be where the bot logs in from).
 
+Note: Make sure to look at the code for 
+documentation per each stage.
