@@ -5,7 +5,7 @@ is stage 1 of the xmpp client*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <gloox/client.h>
-#include <gloxx/messageHandler.h>
+#include <gloox/messageHandler.h>
 using namespace gloox;
 /*Feel free to remove the is typing + sleep function i only added those just for a little spooky program effect*/
 cout << "is typing..."
