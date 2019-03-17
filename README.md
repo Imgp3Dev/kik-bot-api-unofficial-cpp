@@ -20,3 +20,6 @@ always be where the bot logs in from).
 
 Note: Make sure to look at the code for 
 documentation per each stage.
+
+upcoming features:
+sending image loggers
